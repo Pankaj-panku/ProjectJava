@@ -1,0 +1,4 @@
+Project is basically a Coupon System.
+Person requests for a coupon for a particular amount and Coupon (6 digit OTP) is generated and is returned.
+Coupon is then used and Coupon will be checked by SHopkepper whether is coupon is valid is not and 
+amount of coupon. If Coupon is valid after using status is changed to Not Valid .
